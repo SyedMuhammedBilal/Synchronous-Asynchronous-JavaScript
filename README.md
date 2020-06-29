@@ -1,1 +1,1 @@
-# Synchronous-Asynchronous-JavaScript
+# Synchronous-Asynchronous-JavaScript.
